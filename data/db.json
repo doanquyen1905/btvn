@@ -1,0 +1,29 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Truong",
+      "address": "Ha Noi",
+      "point": 9
+    },
+    {
+      "id": 2,
+      "name": "Long",
+      "address": "Thanh Hoa",
+      "point": 5
+    },
+    {
+      "id": 3,
+      "name": "Quyen",
+      "address": "Nam Dinh",
+      "point": 7
+    },
+    {
+      "name": "Son",
+      "address": "Đà nẵng",
+      "point": 6,
+      "id": 4
+    }
+  ],
+  "classrooms": []
+}
